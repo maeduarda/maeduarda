@@ -1,5 +1,5 @@
-
-**Hi, I'm Eduarda!<img src="images/giphy.gif" width="100">**
+<img src="images/giphy.gif" width="100">
+**Hi, I'm Eduarda!**
 
 
 **Sobre mim:**
