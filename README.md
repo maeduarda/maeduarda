@@ -1,4 +1,4 @@
-<img src="images/giphy.gif" width="100">
+<img src="images/naruto.gif" width="100">
 
 **Hi, I'm Eduarda!**
 
