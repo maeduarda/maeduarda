@@ -10,7 +10,7 @@
 - 🚀 Sou apaixonada por desenvolvimento Front-end
 - 📝 Gosto muito de pesquisar e aprender sobre tudo que envolve tecnologia
 - 🤖 Uma verdadeira apreciadora do universo geek
-- 📫 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Maria%20Eduarda-CD6090?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-eduarda-santana-4025621b3/)](linkedin.com/in/maria-eduarda-santana-4025621b3/) 
+- 📫 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Maria%20Eduarda-CD6090?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-eduarda-santana-4025621b3/)](https://www.linkedin.com/in/maria-eduarda-santana-4025621b3/) 
 [![Gmail Badge](https://img.shields.io/badge/-mariaeduard4sant@gmail.com-CD6090?style=flat-square&logo=Gmail&logoColor=white&link=mariaeduard4santf@gmail.com)](mailto:mariaeduard4sant@gmail.com)
 
 <p align="center"> 
